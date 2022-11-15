@@ -1,0 +1,28 @@
+.owl-nav {
+    position: absolute;
+    top: 7%;
+    left: 0;
+    right: 0;
+}
+
+.owl-prev {
+    margin-left: -20px;
+    float: left;
+}
+
+.owl-next {
+    float: right;
+    margin-right: -30px;
+}
+
+.pgafu-post-title {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+    font-size: 32px;
+}
